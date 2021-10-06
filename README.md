@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 -:hatching_chick:Hi, I’m Max(Songyuan) Wang
 
--:dragon_face:I’m interested in data science and database systems
+-:dragon_face:I’m interested in data science, database systems and financial engineering
 
 -:whale:I’m currently learning advanced data processing and machine learning
 
