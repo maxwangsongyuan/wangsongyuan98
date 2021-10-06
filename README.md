@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 -:dragon_face:I’m interested in data science, database systems and financial engineering
 
+-:bird:I love maths, statistics and CS! 
+
 -:whale:I’m currently learning advanced data processing and machine learning
 
 -:wink:Fun fact: I lived and studied in four different countries: Chine, UAE, Singapore and USA
