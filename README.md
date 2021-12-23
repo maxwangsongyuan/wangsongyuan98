@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 -:wink:Fun fact: I lived and studied in four different countries: Chine, UAE, Singapore and USA
 
--📫Reach me at maxwsy98@gmail.com
+-📫Reach me at songyuanwang98@gmail.com
 
